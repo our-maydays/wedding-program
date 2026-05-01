@@ -22,7 +22,7 @@ const WeddingProgram = () => {
 				<img src={programUrl}/>
 			</div>
 
-			<Space height={`${sectionHeight*2}rem`}/>
+			<Space height={`${sectionHeight}rem`}/>
 
 			<div className='section-subtitle'> GUEST SNAP </div>
 			<div className='section-title'> 게스트스냅</div>
