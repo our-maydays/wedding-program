@@ -5,22 +5,6 @@
 	position: relative;
 	margin: 0 auto;
 	
-	background-color: #F8F6EE;
-	-webkit-mask-image: linear-gradient(
-		to bottom,
-		#F8F6EE00 0%,
-		black 20%,
-		black 80%,
-		#F9F6EE00 100%
-	);
-
-	mask-image: linear-gradient(
-		to bottom,
-		#F8F6EE00 0%,
-		black 20%,
-		black 80%,
-		#F8F6EE00 100%
-		);
 
 	-webkit-mask-repeat: no-repeat;
 	mask-repeat: no-repeat;
